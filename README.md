@@ -11,5 +11,5 @@ script que envia mensajes con archivos desde Gmail a diferentes direcciones de c
 ## Requisitos
 1. tener Gmail.
 2. generar contraseña de aplicacion generada en Gmail.
-3. instalar yagmail 'pip install yagmail[all]'.
+3. instalar yagmail 'pip install yagmail[all]' o 'pip install yagmail[all] --user' solo en caso de que la primera de error.
 
